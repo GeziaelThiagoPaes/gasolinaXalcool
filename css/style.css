@@ -48,6 +48,7 @@ body{
     color: rgb(255, 255, 255);
     font-size: 20px;
     background-color: rgb(182, 24, 3);
+   height:50px
 }
 #containerBotao{
     padding-top: 20px;
